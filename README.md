@@ -12,8 +12,8 @@
 
 Employee 1:
 
--Email: e@e.com
--Password: 123
+- Email: e@e.com
+- Password: 123
 
 Employee 2:
 
