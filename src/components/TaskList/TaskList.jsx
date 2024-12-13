@@ -1,6 +1,6 @@
 import React from "react";
 import AcceptTask from "./AcceptTask";
-import CompleteTask from "./Completetask";
+import CompleteTask from "./CompleteTask";
 import NewTask from "./NewTask";
 import FailedTask from "./FailedTask";
 
