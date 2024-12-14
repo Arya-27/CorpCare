@@ -1,8 +1,31 @@
-# React + Vite
+# Under Construction
+# User Login Credentials
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Below are the default login credentials to access the application:
 
-Currently, two official plugins are available:
+# Admin Login
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Email: admin@example.com
+- Password: 123
+
+# Employee Logins
+
+Employee 1:
+
+- Email: e@e.com
+- Password: 123
+
+Employee 2:
+
+- Email: employee2@example.com
+- Password: 123
+
+Employee 3:
+
+- Email: employee3@example.com
+- Password: 123
+
+
+# Admin Page
+<img width="960" alt="2024-12-14 (1)" src="https://github.com/user-attachments/assets/c25cbee9-7365-465f-867c-3783310498e9" />
+
