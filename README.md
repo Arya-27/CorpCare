@@ -1,5 +1,5 @@
-# Under Construction
-# User Login Credentials
+
+# Login Credentials
 
 - Below are the default login credentials to access the application:
 
